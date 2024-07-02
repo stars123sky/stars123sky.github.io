@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Markdown 语法"
-subtitle:   "markdown基本语法""
+subtitle:   "markdown基本语法"
 tags:[markdown]
 
 ---
