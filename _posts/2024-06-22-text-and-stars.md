@@ -2,12 +2,8 @@
 layout:     post
 title:      "Markdown 语法"
 subtitle:   "markdown基本语法""
-date:      2024-06-22 16:55:00 +0800
-author:     "stars"
-header-img: "img/woman-8390124_1280.webp"
 catalog: true
-tags:
-    - markdown
+tags: [markdown]
 ---
 
 
